@@ -16,5 +16,5 @@
 ##### [먹키네이터 기능](https://star-peanuts.tistory.com/44)
 
 ### 배포된 서비스
-http://mukinator.pythonanywhere.com/community/
+http://mukinator.pythonanywhere.com/
 
